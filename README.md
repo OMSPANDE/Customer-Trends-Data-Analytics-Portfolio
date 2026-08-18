@@ -54,11 +54,11 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 5. **Follow along with the YouTube video for full walkthrough. 👨‍💼**
 
 
-## 📜 License
+## License
 
 MIT — feel free to fork, star, and use in your portfolio.
 
-## 👨‍💻 About the Author
+## About the Author
 Hey, I’m Om Shrikant Pande, a Data Analyst .
 
 
